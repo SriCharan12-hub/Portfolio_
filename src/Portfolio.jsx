@@ -11,7 +11,7 @@ import {
   ChevronRight,
   Download,
 } from "lucide-react";
-import "./Portfolio.css";
+import "./portfolio.css";
 
 const Portfolio = () => {
   const [scrolled, setScrolled] = useState(false);
