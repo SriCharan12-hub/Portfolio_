@@ -215,10 +215,32 @@ const Portfolio = () => {
               <div className="skill-icon">🍃</div>
               <span>Spring Boot</span>
             </div>
+
             <div className="skill-item" style={{ animationDelay: "0.3s" }}>
-              <div className="skill-icon">🗄️</div>
+              <div className="skill-icon">🐬</div>
               <span>MySQL</span>
             </div>
+
+            <div className="skill-item" style={{ animationDelay: "0.3s" }}>
+              <div className="skill-icon">🗄️</div>
+              <span>SQL</span>
+            </div>
+
+            <div className="skill-item" style={{ animationDelay: "0.3s" }}>
+              <div className="skill-icon">🔄</div>
+              <span>SDLC</span>
+            </div>
+
+            <div className="skill-item" style={{ animationDelay: "0.3s" }}>
+              <div className="skill-icon">📬</div>
+              <span>Postman</span>
+            </div>
+
+             
+
+ 
+
+ 
             <div className="skill-item" style={{ animationDelay: "0.4s" }}>
               <div className="skill-icon">☁️</div>
               <span>AWS</span>
